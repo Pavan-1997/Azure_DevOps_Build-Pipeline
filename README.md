@@ -15,3 +15,5 @@
 - Implement the build pipeline using the classic editor
 
 - Understand the use of service connection and service principal
+
+![image](https://github.com/Pavan-1997/Azure_DevOps_Build-Pipeline/assets/32020205/46352809-cc2e-473d-b1c4-39f1940266e2)
