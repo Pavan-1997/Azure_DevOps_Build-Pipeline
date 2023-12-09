@@ -3,7 +3,7 @@
 ## Steps to set the infrastructure
 - Login to VSCode or any other IDE of your choice
 - Download the application code
-- Create a project in Azure DevOps for Day4 and push the code by running the below commands on VSCode:
+- Create a project in Azure DevOps and push the code by running the below commands on VSCode:
   ```
   git remote add origin $YOURAZUREREPO
   git push -u origin all
