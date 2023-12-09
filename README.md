@@ -1,4 +1,4 @@
-Python DevOps_Build-Pipeline
+Python DevOpsBuild-Pipeline
 
 ## Steps to set the infrastructure
 - Login to VSCode or any other IDE of your choice
