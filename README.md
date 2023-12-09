@@ -30,3 +30,5 @@ Note: You must set the app settings WEBSITE_DYNAMIC_CACHE=0 and WEBSITE_LOCAL_CA
 *  A step can be a task or script and is the smallest building block of a pipeline.
 *  A task is a pre-packaged script that performs an action, such as invoking a REST API or publishing a build artifact.
 *  An artifact is a collection of files or packages published by a run.
+
+![image](https://github.com/Pavan-1997/Azure_DevOps_Build-Pipeline/assets/32020205/0b0bc069-5305-415e-adba-154031ed1de3)
