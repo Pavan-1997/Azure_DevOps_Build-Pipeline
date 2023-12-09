@@ -1,6 +1,6 @@
 # Azure DevOps Build Pipeline
   
-## Steps to set the infrastructure 
+## Steps to set the infrastructure  
 - Login to VSCode or any other IDE of your choice   
 - Download the application code
 - Create a project in Azure DevOps and push the code by running the below commands on VSCode:
